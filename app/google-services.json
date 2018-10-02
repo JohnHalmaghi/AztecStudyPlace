@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "436991805490",
+    "firebase_url": "https://aztecstudyplace.firebaseio.com",
+    "project_id": "aztecstudyplace",
+    "storage_bucket": "aztecstudyplace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436991805490:android:e65bc7bec9333557",
+        "android_client_info": {
+          "package_name": "com.halmaghi.john.aztecstudyplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436991805490-ko8qs8qii860lvqupdii2fflmiqn3fmf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "436991805490-8j3e2q1tbasj1d6phajticu9g4ombku6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.halmaghi.john.aztecstudyplace",
+            "certificate_hash": "afc93addc5cb55360632f18d3d4bd5c5cd4f98ec"
+          }
+        },
+        {
+          "client_id": "436991805490-2da69trgm9aminveh7c7e6aqgrrhkr5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCi4CLPMVEmm3ujnJbJTSHqtrrnjDvYSM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436991805490-ko8qs8qii860lvqupdii2fflmiqn3fmf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
